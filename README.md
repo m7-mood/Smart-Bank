@@ -34,20 +34,25 @@ Smart Bank is a desktop banking application that provides banking services for b
 
 ## 🖥️ Screenshots
 
+## 🖥️ Screenshots
+
 ### Login
-![Login](Screenshot%202026-09-11%20234835.png)
+![Login](Login-44.png)
 
 ### Customer Dashboard
-![Customer Dashboard](Screenshot%202026-09-11%20234900.png)
+![Customer Dashboard](Customer%20Dashboard.png)
 
 ### Admin Dashboard
-![Admin Dashboard](Screenshot%202026-09-11%20234927.png)
+![Admin Dashboard](Admin-Dashboard.png)
 
-### Reports
-![Reports](Screenshot%202026-09-11%20234951.png)
+### Reports & CSV Export
+![Reports & CSV Export](Report-csv.png)
 
-### Additional Interface
-![Additional Interface](Screenshot%202026-09-11%20235133.png)
+### Error Handling
+![Error Handling](Catch-error-00.png)
+
+### Database Connection
+![Database Connection](Link-DatatoBank.png)
 
 -------------------------------------------------------------------------------------------------------------
 > 📚 This project was developed as a university course project for CSC236: Object Oriented Programming (2).
