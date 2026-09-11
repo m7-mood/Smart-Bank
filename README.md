@@ -39,7 +39,7 @@ Smart Bank is a desktop banking application that provides banking services for b
 ![Login](Login-44.png)
 
 ### Customer Dashboard
-![Customer Dashboard](Customer%20Dashboard.png)
+![Customer Dashboard](customer%20dashboard.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](Admin-Dashboard.png)
