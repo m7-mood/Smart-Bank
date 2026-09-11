@@ -32,7 +32,22 @@ Smart Bank is a desktop banking application that provides banking services for b
 - CSV
 - Object-Oriented Programming (OOP)
 
+## 🖥️ Screenshots
 
+### Login
+![Login](Screenshot%202026-09-11%20234835.png)
+
+### Customer Dashboard
+![Customer Dashboard](Screenshot%202026-09-11%20234900.png)
+
+### Admin Dashboard
+![Admin Dashboard](Screenshot%202026-09-11%20234927.png)
+
+### Reports
+![Reports](Screenshot%202026-09-11%20234951.png)
+
+### Additional Interface
+![Additional Interface](Screenshot%202026-09-11%20235133.png)
 
 -------------------------------------------------------------------------------------------------------------
 > 📚 This project was developed as a university course project for CSC236: Object Oriented Programming (2).
